@@ -7,7 +7,7 @@
 | ----------- | ----------------- |
 | Ejercicio 2 | Breve descripcion |
 
-## Tema 1- Introducción
+## Tema 1- x
 
 | Ejercicio 1 | Breve descripcion |
 | ----------- | ----------------- |
