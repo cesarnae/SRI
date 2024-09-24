@@ -1,6 +1,6 @@
 # SIR
-> Este repositorio incluye actividades llevadas a cabo en el módulo nombre del módulo
-> 
+> Este repositorio incluye actividades llevadas a cabo en el módulo SREI
+
  ## Tema 0- Introducción
 
 | Ejercicio 1 | Breve descripcion |
