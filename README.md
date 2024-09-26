@@ -3,9 +3,9 @@
 
  ## Tema 0- Introducción
 
-| Ejercicio 1 | Breve descripcion |
+| Ejercicios  | Descripcion |
 | ----------- | ----------------- |
-| Ejercicio 2 | Breve descripcion |
+| Ejercicio 1 | Breve descripcion |
 
 ## Tema 1- x
 
