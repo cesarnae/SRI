@@ -3,9 +3,9 @@
 
  ## Tema 0- Introducción
 
-| Ejercicios  | Descripcion |
+| Nombre  | Descripcion |
 | ----------- | ----------------- |
-| Ejercicio 1 | Breve descripcion |
+| Ejercicio 1 | Servidor Web con Python |
 
 ## Tema 1- x
 
