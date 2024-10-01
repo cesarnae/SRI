@@ -12,4 +12,4 @@ Una vez abierto el servidor procemos a buscar en nuestro navegador "localhost:80
 
 A continuacion cambiaremos la imagen del servidor, para  ello descargamos una imagen y le cambairemos el nombre a "favicon" y du extension a ".ico" 
 
-![cap.PNG](cap.PNG)
+![cap.png](cap.png)
