@@ -10,6 +10,8 @@ Una vez abierto el servidor procemos a buscar en nuestro navegador "localhost:80
 
 ![3.PNG](3.PNG)
 
-A continuacion cambiaremos la imagen del servidor, para  ello descargamos una imagen y le cambairemos el nombre a "favicon" y du extension a ".ico" 
+A continuacion cambiaremos la imagen del servidor, para  ello descargamos una imagen y le cambairemos el nombre a "favicon" y su extension a ".ico" 
 
 ![cap.png](cap.png)
+
+Y por ultimo ya una vez cambiado el nombre lo metemos en la ruta del servidor y vemos como queda.
