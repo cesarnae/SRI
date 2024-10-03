@@ -16,4 +16,4 @@ A continuacion cambiaremos la imagen del servidor, para  ello descargamos una im
 
 Y por ultimo ya una vez cambiado el nombre lo metemos en la ruta del servidor y vemos como queda.
 
-![cap2.png](cap2.png)
+![cap2.PNG](cap2.PNG)
