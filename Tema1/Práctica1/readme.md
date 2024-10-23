@@ -6,7 +6,7 @@
    
    ![script2.PNG](script2.PNG)
 
-4. Crea un script que nos permita crear una página web con un título, una cabecera y un mensaje
+3. Crea un script que nos permita crear una página web con un título, una cabecera y un mensaje
 
      ![script3.PNG](script3.PNG)
 
