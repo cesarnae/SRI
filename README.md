@@ -9,6 +9,6 @@
 
 ## Tema 1- x
 
-| Ejercicio 1 | Breve descripcion |
+| Nombre | Descripcion |
 | ----------- | ----------------- |
-| Ejercicio 2 | Breve descripcion |
+| Ejercicio 1 | Trabajando con scripts |
