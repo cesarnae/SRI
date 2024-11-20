@@ -5,16 +5,16 @@ En primer lugar vamos a crear nuestro sitio web utilizando Visual Studio Code y 
 
 Ahora vamos a crear nusestro propio server utilizando python. Para ello uilizaremos el siguiente comando: python -m http.server 8000
 
-![2.PNG](2.PNG)
+ ![Texto alternativo](Imagenes/2.PNG)
 
 Una vez abierto el servidor procemos a buscar en nuestro navegador "localhost:8000"
 
-![3.PNG](3.PNG)
+ ![Texto alternativo](Imagenes/3.PNG)
 
 A continuacion cambiaremos la imagen del servidor, para  ello descargamos una imagen y le cambairemos el nombre a "favicon" y su extension a ".ico" 
 
-![cap.png](cap.png)
+ ![Texto alternativo](Imagenes/cap.PNG)
 
 Y por ultimo ya una vez cambiado el nombre lo metemos en la ruta del servidor y vemos como queda.
 
-![cap2.PNG](cap2.PNG)
+ ![Texto alternativo](Imagenes/cap2.PNG)
