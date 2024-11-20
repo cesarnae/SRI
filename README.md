@@ -5,10 +5,10 @@
 
 | Nombre  | Descripcion |
 | ----------- | ----------------- |
-| Ejercicio 1 | Servidor Web con Python |
+| Práctica1 | Servidor Web con Python |
 
 ## Tema 1- x
 
 | Nombre | Descripcion |
 | ----------- | ----------------- |
-| Ejercicio 1 | Trabajando con scripts |
+| Práctica1 | Trabajando con scripts |
