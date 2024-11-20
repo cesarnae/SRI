@@ -11,4 +11,4 @@
 
 | Nombre | Descripcion |
 | ----------- | ----------------- |
-| Práctica1(Tema1/Práctica1.md) | Trabajando con scripts |
+| [Práctica1](Tema1/Práctica1.md) | Trabajando con scripts |
