@@ -4,8 +4,10 @@
 
 2. Crea un script que añada un nombre de dominio y una ip al fichero hosts. Debemos comprobar que no existe dicho dominio en el fichero hosts
    
-   ![script2.PNG](script2.PNG)
+     ![Texto alternativo](Imagenes/script2.PNG)
+
 
 3. Crea un script que nos permita crear una página web con un título, una cabecera y un mensaje
 
-     ![script3.PNG](script3.PNG)
+       ![Texto alternativo](Imagenes/script3.png)
+
