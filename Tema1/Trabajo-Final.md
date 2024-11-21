@@ -44,6 +44,11 @@
 
 ## 3. Instalar y configurar wordpress(centro.intranet)
 
+**Instalacion en centro.intranet**
+
+
+
+
 ## 4. Activar el módulo “wsgi” para permitir la ejecución de aplicaciones Python
 
 ## 5. Activar el módulo “wsgi” para permitir la ejecución de aplicaciones Python
