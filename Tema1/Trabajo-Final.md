@@ -3,11 +3,11 @@
 
 **Instalación** servidor web apache:
 
- ![Apache](Imagenes/Cap2.PNG)
+ ![Apache1](Imagenes/Cap2.PNG)
 
 **Comprobacion** de que esta bien instalado:
 
- ![Apache](Imagenes/Cap5.PNG)
+ ![Apache2](Imagenes/Cap5.PNG)
 
 ## 2.Activar los módulos necesarios para ejecutar php y acceder a mysql
 
