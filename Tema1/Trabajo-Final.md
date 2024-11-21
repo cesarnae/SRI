@@ -26,6 +26,8 @@
 
 **Comprobación**:
 
+ ![PHP2](Imagenes/php2.png)
+
 ## 3. Instalar y configurar wordpress(centro.intranet)
 
 ## 4. Activar el módulo “wsgi” para permitir la ejecución de aplicaciones Python
