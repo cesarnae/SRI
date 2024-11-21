@@ -7,7 +7,7 @@
 
 **Comprobacion** de que esta bien instalado:
 
- ![Apache2](Imagenes/Cap5.PNG)
+ ![Apache2](Imagenes/Captura5.PNG)
 
 ## 2.Activar los módulos necesarios para ejecutar php y acceder a mysql
 
