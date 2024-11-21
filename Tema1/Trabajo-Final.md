@@ -31,7 +31,16 @@
  **Creacion dominios mediante el archivo hosts:**
 
  ![VH](Imagenes/virtualhost.png)
- **Comprobacion**
+ 
+ **Comprobacion**:
+ 
+ http://centro.intranet/
+
+
+
+ http://departamentos.centro.intranet/
+
+ 
 
 ## 3. Instalar y configurar wordpress(centro.intranet)
 
