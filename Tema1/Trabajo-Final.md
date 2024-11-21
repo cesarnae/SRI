@@ -2,6 +2,7 @@
 ## 1. Instalación del servidor web apache. Usaremos dos dominios mediante el archivo hosts: centro.intranet(wordpress) y departamentos.centro.intranet(Python)
 
 **Instalación** servidor web apache:
+
  ![Apache](Imagenes/Cap2.PNG)
 
 **Comprobacion** de que esta bien instalado:
