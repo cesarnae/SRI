@@ -13,11 +13,16 @@
 
 **Instalación** MySQL:
 
- ![](Imagenes/Cap5.PNG)
+ ![MySQL](Imagenes/Mysql1.PNG)
 
 **Comprobación**:
 
+ ![MySQL](Imagenes/mysql3.PNG)
+ 
 **Instalación** PHP:
+
+ ![PHP](Imagenes/php1.PNG)
+ 
 
 **Comprobación**:
 
