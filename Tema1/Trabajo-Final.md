@@ -36,11 +36,11 @@
  
  http://centro.intranet/
 
-
+ ![CI](Imagenes/ci.png)
 
  http://departamentos.centro.intranet/
 
- 
+ ![DCI](Imagenes/dci.png)
 
 ## 3. Instalar y configurar wordpress(centro.intranet)
 
