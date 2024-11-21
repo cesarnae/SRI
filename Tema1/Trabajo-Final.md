@@ -28,6 +28,11 @@
 
  ![PHP2](Imagenes/php2.png)
 
+ **Creacion dominios mediante el archivo hosts:**
+
+ ![VH](Imagenes/virtualhost.png)
+ **Comprobacion**
+
 ## 3. Instalar y configurar wordpress(centro.intranet)
 
 ## 4. Activar el módulo “wsgi” para permitir la ejecución de aplicaciones Python
