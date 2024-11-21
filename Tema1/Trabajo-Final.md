@@ -7,13 +7,17 @@
 
 **Comprobacion** de que esta bien instalado:
 
+ ![Apache](Imagenes/Cap5.PNG)
+
 ## 2.Activar los módulos necesarios para ejecutar php y acceder a mysql
 
-**Instalación** PHP:
+**Instalación** MySQL:
+
+ ![](Imagenes/Cap5.PNG)
 
 **Comprobación**:
 
-**Instlación** MySQL:
+**Instalación** PHP:
 
 **Comprobación**:
 
