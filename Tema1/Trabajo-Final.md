@@ -46,6 +46,32 @@
 
 **Instalacion en centro.intranet**
 
+![WP1](Imagenes/wordpress.PNG)
+
+**Descomprimimos la carpeta**
+
+![WP2](Imagenes/wordpress2.PNG)
+
+**La movemos a nuestro directorio**
+
+![WP3](Imagenes/wordpress3.PNG)
+
+Ahora vamos a **configurar  el fichero virtualhost:**
+
+![WP4](Imagenes/wordpress4.PNG)
+![WP5](Imagenes/wordpress5.PNG)
+![WP6](Imagenes/wordpress6.PNG)
+![WP7](Imagenes/wordpress7.PNG)
+![WP8](Imagenes/wordpress8.PNG)
+![WP9](Imagenes/wordpress9.PNG)
+![WP20](Imagenes/wordpress10.PNG)
+![WP12](Imagenes/wordpress11.PNG)
+![WP12](Imagenes/wordpress12.PNG)
+![WP13](Imagenes/wordpress13.PNG)
+![WP14](Imagenes/wordpress14.PNG)
+![WP15](Imagenes/wordpress15.PNG)
+![WP16](Imagenes/wordpress16.PNG)
+![WP17](Imagenes/wordpress17.PNG)
 
 
 
