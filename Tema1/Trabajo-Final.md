@@ -56,21 +56,49 @@
 
 ![WP3](Imagenes/wordpress3.PNG)
 
-Ahora vamos a **configurar  el fichero virtualhost:**
+Ahora vamos a **configurar y habilitar el fichero virtualhost:**
 
 ![WP4](Imagenes/wordpress4.PNG)
 ![WP5](Imagenes/wordpress5.PNG)
+
+**Entramos a centro.intranet**
+
 ![WP6](Imagenes/wordpress6.PNG)
+
+**Creamos base  de datos**
+
 ![WP7](Imagenes/wordpress7.PNG)
+
+**Creamos usuario y le  damos permiso**
+
 ![WP8](Imagenes/wordpress8.PNG)
 ![WP9](Imagenes/wordpress9.PNG)
-![WP20](Imagenes/wordpress10.PNG)
-![WP12](Imagenes/wordpress11.PNG)
+![WP10](Imagenes/wordpress10.PNG)
+![WP11](Imagenes/wordpress11.PNG)
+
+
+**Instalamos wordpress**
+
 ![WP12](Imagenes/wordpress12.PNG)
+
+Siguiendo los siguientes pasos  **modificamos  archivo  wp-config.php** utilizando como  **plantila wp-config.sample.php**
+
 ![WP13](Imagenes/wordpress13.PNG)
+
+**Terminamos la instalacion**
+
 ![WP14](Imagenes/wordpress14.PNG)
+
+**Finalmente queda instalada**
+
 ![WP15](Imagenes/wordpress15.PNG)
+
+**Iniciamos sesión**
+
 ![WP16](Imagenes/wordpress16.PNG)
+
+**Y hasta aqui la  instalacion de  wordpress en centro.intranet**
+
 ![WP17](Imagenes/wordpress17.PNG)
 
 
