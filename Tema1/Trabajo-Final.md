@@ -105,15 +105,50 @@ Siguiendo los siguientes pasos  **modificamos  archivo  wp-config.php** utilizan
 
 ## 4. Activar el módulo “wsgi” para permitir la ejecución de aplicaciones Python
 
+**Instalanmos el módulo**
+
+![PY](Imagenes/py.PNG)
+
+**Lo habilitamos**
+
+![PY1](Imagenes/py1.PNG)
+
+**Configuramos virtualhost**
+
+![PY2](Imagenes/py2.PNG)
+
+**Lo habilitamos**
+
+![PY3](Imagenes/py3.PNG)
+
 
 ### 4.1 Crea y despliega una pequeña aplicación python para comprobar que funciona correctamente.
 
+**Creamos archivo py**
+
+![PY4](Imagenes/py4.PNG)
+
+**Archivo ya creado**
+
+![PY7](Imagenes/pyx.png)
 
 ### 4.2 Adicionalmente protegeremos el acceso a la aplicación python mediante autenticación
 
+**Creamos archivo para usuario y contraseña**
+
+![PY5](Imagenes/py5.PNG)
+
+**Cuando intentamos iniciar nos pide usuario/contraseña**
+
+![PY6](Imagenes/py6.PNG)
+
+## 5. Instala y configura awstat.
+![PY5](Imagenes/py5.PNG)
 
 
-## 5. Instala un segundo servidor de tu elección (nginx, lighttpd) bajo el dominio  “servidor2.centro.intranet”. Debes configurarlo para que sirva en el puerto 8080 y haz los cambios necesarios para ejecutar php. Instala phpmyadmin.
+## 6. Instala un segundo servidor de tu elección (nginx, lighttpd) bajo el dominio  “servidor2.centro.intranet”. Debes configurarlo para que sirva en el puerto 8080 y haz los cambios necesarios para ejecutar php. Instala phpmyadmin.
+
+
 
 
 
