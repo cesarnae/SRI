@@ -12,4 +12,4 @@
 | Nombre | Descripcion |
 | ----------- | ----------------- |
 | [Práctica1](Tema1/Práctica1.md) | Trabajando con scripts |
-| [TrabajoFinal](Tema1/TrabajoFinal.md) | Trabajo Primer Trimestre |
+| [TrabajoFinal](Tema1/Trabajo-Final.md) | Trabajo Primer Trimestre |
