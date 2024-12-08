@@ -190,42 +190,69 @@ Siguiendo los siguientes pasos  **modificamos  archivo  wp-config.php** utilizan
 
 ## 6. Instala un segundo servidor de tu elección (nginx, lighttpd) bajo el dominio  “servidor2.centro.intranet”. Debes configurarlo para que sirva en el puerto 8080 y haz los cambios necesarios para ejecutar php. Instala phpmyadmin.
 
+**Instalamos nginx**
+
 ![NG](Imagenes/ng.PNG)
+
+**Modiifcamos archivo para que escuche puerto 8080**
 
 ![NG](Imagenes/ng1.PNG)
 
 ![NG](Imagenes/ng2.PNG)
 
+**Creamos fichero conf y modificamos para que escuche puerto 8080**
+
 ![NG](Imagenes/ng3.PNG)
 
 ![NG](Imagenes/ng4.PNG)
+
+**Creamos directorio(almacenar archivos server) e index**
 
 ![NG](Imagenes/ng5.PNG)
 
 ![NG](Imagenes/ng6.PNG)
 
+**Entramos a fichero conf, cambiamos root para nuevo directorio y añadimos el nombre de nuestro servidor(servidor2.centro.intranet)**
+
 ![NG](Imagenes/ng7.PNG)
+
+**Añadimos dominio a fichero hosts**
 
 ![NG](Imagenes/ng8.PNG)
 
+**Entramos a server con nombre dominio y puerto(servidor2.centro.intranet:8080)**
+
 ![NG](Imagenes/ng9.PNG)
+
+**Instalamos phpmyadmin(sudo apt install phpmyadmin) y elegimos apache2**
 
 ![NG](Imagenes/ng10.PNG)
 
+**Creamos enlace de entrada**
+
 ![NG](Imagenes/ng11.PNG)
+
+**Cmabiamos permisos**
 
 ![NG](Imagenes/ng12.PNG)
 
+**Añadimos lo siguiente a nuestro fichero conf**
 
 ![NG](Imagenes/ng13.PNG)
 
+**Añadimos lo siguiente a nuestro fichero conf**
+
 ![NG](Imagenes/ng14.PNG)
+
+**Instalamos php8.1-fpm**
 
 ![NG](Imagenes/ng15.PNG)
 
+**Entramos a phpmyadmin poniendo en el navegador servidor2.centro.intranet:8080/phpmyadmin**
+
 ![NG](Imagenes/ng16.PNG)
 
-![NG](Imagenes/ng17.PNG)
+![NG](Imagenes/ng17.png)
 
 
 
