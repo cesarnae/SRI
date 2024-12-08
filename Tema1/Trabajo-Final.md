@@ -236,10 +236,9 @@ Siguiendo los siguientes pasos  **modificamos  archivo  wp-config.php** utilizan
 
 ![NG](Imagenes/ng12.PNG)
 
-**Añadimos lo siguiente a nuestro fichero conf**
-
 ![NG](Imagenes/ng13.PNG)
 
+**Añadimos lo siguiente a nuestro fichero conf**
 
 ![NG](Imagenes/ng14.PNG)
 
