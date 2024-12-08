@@ -113,10 +113,8 @@ Siguiendo los siguientes pasos  **modificamos  archivo  wp-config.php** utilizan
 
 
 
-## 5. Instala y configura awstat.
+## 5. Instala un segundo servidor de tu elección (nginx, lighttpd) bajo el dominio  “servidor2.centro.intranet”. Debes configurarlo para que sirva en el puerto 8080 y haz los cambios necesarios para ejecutar php. Instala phpmyadmin.
 
-
-## 5.1 Crea y despliega una pequeña aplicación python para comprobar que funciona correctamente.
 
 
 
