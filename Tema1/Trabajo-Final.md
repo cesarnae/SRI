@@ -143,10 +143,89 @@ Siguiendo los siguientes pasos  **modificamos  archivo  wp-config.php** utilizan
 ![PY6](Imagenes/py6.PNG)
 
 ## 5. Instala y configura awstat.
-![PY5](Imagenes/py5.PNG)
 
+**Creamos archivo para usuario y contraseña**
+
+**Instalamos awstats**
+
+![AW](Imagenes/aw.PNG)
+
+**Acitvamos cgi**
+
+![AW](Imagenes/aw1.PNG)
+
+**Configuramos awstats**
+
+![AW](Imagenes/aw2.PNG)
+
+**Editamos y ponemos nuestro dominio y host**
+
+![AW](Imagenes/aw3.PNG)
+
+**Activamos la siguiente opcion cambiando 0 por 1**
+
+![AW](Imagenes/aw4.PNG)
+
+**Configuramos apache**
+
+![AW](Imagenes/aw5.PNG)
+
+**Otorgamos permisos**
+
+![AW](Imagenes/aw6.PNG)
+
+**Modificamos archivo poniendo lo siguiente**
+
+![AW](Imagenes/aw7.PNG)
+
+![AW](Imagenes/aw8.PNG)
+
+**Habilitamos conf**
+
+![AW](Imagenes/aw9.PNG)
+
+**Entramos navegador y vemos stats**
+
+![AW](Imagenes/aw10.PNG)
 
 ## 6. Instala un segundo servidor de tu elección (nginx, lighttpd) bajo el dominio  “servidor2.centro.intranet”. Debes configurarlo para que sirva en el puerto 8080 y haz los cambios necesarios para ejecutar php. Instala phpmyadmin.
+
+![NG](Imagenes/ng.PNG)
+
+![NG](Imagenes/ng1.PNG)
+
+![NG](Imagenes/ng2.PNG)
+
+![NG](Imagenes/ng3.PNG)
+
+![NG](Imagenes/ng4.PNG)
+
+![NG](Imagenes/ng5.PNG)
+
+![NG](Imagenes/ng6.PNG)
+
+![NG](Imagenes/ng7.PNG)
+
+![NG](Imagenes/ng8.PNG)
+
+![NG](Imagenes/ng9.PNG)
+
+![NG](Imagenes/ng10.PNG)
+
+![NG](Imagenes/ng11.PNG)
+
+![NG](Imagenes/ng12.PNG)
+
+
+![NG](Imagenes/ng13.PNG)
+
+![NG](Imagenes/ng14.PNG)
+
+![NG](Imagenes/ng15.PNG)
+
+![NG](Imagenes/ng16.PNG)
+
+![NG](Imagenes/ng17.PNG)
 
 
 
