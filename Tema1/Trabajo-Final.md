@@ -105,6 +105,18 @@ Siguiendo los siguientes pasos  **modificamos  archivo  wp-config.php** utilizan
 
 ## 4. Activar el módulo “wsgi” para permitir la ejecución de aplicaciones Python
 
-## 5. Activar el módulo “wsgi” para permitir la ejecución de aplicaciones Python
+
+### 4.1 Crea y despliega una pequeña aplicación python para comprobar que funciona correctamente.
+
+
+### 4.2 Adicionalmente protegeremos el acceso a la aplicación python mediante autenticación
+
+
+
+## 5. Instala y configura awstat.
+
+
 ## 5.1 Crea y despliega una pequeña aplicación python para comprobar que funciona correctamente.
+
+
 
