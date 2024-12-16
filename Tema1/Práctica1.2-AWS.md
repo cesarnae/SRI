@@ -94,6 +94,7 @@ Y lo configuramos de la siguiente manera **(todo es opcional menos nuestra ip)**
 ![AWS](Imagenes/aws24.PNG)
 
 Añadiendo lo siguiente:
+
 ![AWS](Imagenes/aws25.PNG)
 
 ![AWS](Imagenes/aws26.PNG)
