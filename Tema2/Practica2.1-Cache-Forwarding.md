@@ -46,7 +46,26 @@ Ahora tendremos que añadir las IPs recursivas a options:
 
 ![image](https://github.com/user-attachments/assets/74c42527-611b-4368-aa07-f384180bbb24)
 
+Ejecutamos los siguientes comandos para comprobar que todo funciona bien
+```
+sudo named-checkconf
+```
+```
+sudo systemctl restart bind9
+```
+```
+sudo ufw allow Bind9
+```
+
 ![image](https://github.com/user-attachments/assets/1f876792-225c-4471-9566-19320c2eb721)
+
+Nos queda comprobar en la maquina cliente windows:
+```
+nslookup www.google.com 10.4.0.139
+```
+![image](https://github.com/user-attachments/assets/28f92f17-6168-4165-b77a-444c07862036)
+
+![image](https://github.com/user-attachments/assets/896dc56d-acfc-4eb5-a318-dd47a94c5a8b)
 
 
 
