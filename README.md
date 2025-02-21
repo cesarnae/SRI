@@ -18,4 +18,4 @@
 ## Tema 2- 
 | Nombre | Descripcion |
 | ----------- | ----------------- |
-| [Práctica2.1](Tema2/Práctica2.1-Cache-Forwarding.md) |  |
+| [Práctica2.1](Tema2/Practica2.1-Cache-Forwarding.md) |  |
