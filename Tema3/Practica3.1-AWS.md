@@ -180,17 +180,64 @@ sudo mount -t nfs4 -o nfsvers=4.1,rsize=1048576,wsize=1048576,hard,timeo=600,ret
 ![image](https://github.com/user-attachments/assets/2ac18f6c-9307-4613-9508-2626db52eb55)
 
 
+# 6. Instalación wordpress
 
 
+Instalamos Wordpress y descomprimimos el archivo
 
+```
+sudo wget http://wordpress.org/latest.tar.gz
+```
+```
+sudo tar -xf latest.tar.gz
+```
 
+![image](https://github.com/user-attachments/assets/cac42707-f269-4a37-99ad-bd9f2977dc75)
 
+![image](https://github.com/user-attachments/assets/cd555aff-8746-4203-a977-7ab0adfc1ede)
 
+Ahora instalamos un cliente mytsql para crear la base de datos en Wordpress
 
+```
+sudo apt install mysql-client -y
+```
+![image](https://github.com/user-attachments/assets/72d88c91-6431-4506-a1d3-d242f9b0b29f)
 
+Y entramos a MySQL con el punto de enlace de nuestra base de datos
 
+```
+mysql -h wpcesardba.ck9g0ylsopvm.us-east-1.rds.amazonaws.com -u admin -p
+```
 
+![image](https://github.com/user-attachments/assets/6a953818-535a-4765-afc0-1186baca7615)
 
+![image](https://github.com/user-attachments/assets/b0154d7b-e4d0-4460-b566-9a1965cdd911)
+
+Procedmos a crear la base de datos
+
+```
+CREATE DATABASE wordpress;
+CREATE USER 'wordpress_user'@'%' IDENTIFIED BY 'password123';
+GRANT ALL PRIVILEGES ON wordpress.* TO 'wordpress_user'@'%';
+FLUSH PRIVILEGES;
+```
+![image](https://github.com/user-attachments/assets/b48ca419-b6c7-46b3-85f3-7c1783359a5a)
+
+Vamos a la instalación web de wordpress
+
+![image](https://github.com/user-attachments/assets/ce6d31c9-2b6d-4ad4-82a1-f88b58807928)
+
+Y vamos siguiendo los pasos de las imagenes siguientes
+
+![image](https://github.com/user-attachments/assets/456ad57a-2c52-40c3-add8-8bcc9ba896c9)
+
+![image](https://github.com/user-attachments/assets/96a32237-3c77-48bd-8112-a6b3787e24d8)
+
+![image](https://github.com/user-attachments/assets/ef9841b1-9bb8-4395-a754-61a1579158e1)
+
+Finalmente podemos obaervar que al iniciar sesión no tendremos ningun problema y ya habremos terminado con la instalación de Wordpress
+
+![image](https://github.com/user-attachments/assets/2ac40007-3b93-455d-8410-e653b087da78)
 
 
 
