@@ -15,7 +15,7 @@
 | [TrabajoFinal](Tema1/Trabajo-Final.md) | Trabajo Primer Trimestre |
 | [Práctica1.2-AWS](Tema1/Práctica1.2-AWS.md) | Trabajo con instancia AWS|
 
-## Tema 2- 
+## Tema 2- DNS
 | Nombre | Descripción |
 | ----------- | ----------------- |
 | [Práctica2.1](Tema2/Practica2.1-Cache-Forwarding.md) | DNS Caching and Fordwarding Server |
